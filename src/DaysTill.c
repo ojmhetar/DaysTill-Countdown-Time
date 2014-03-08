@@ -1,5 +1,5 @@
 /*
-"Classic" Digital Watch Pebble App
+The DaysTill watchface. 
 */
 // Standard includes
 #include "pebble.h"
