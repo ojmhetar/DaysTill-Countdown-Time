@@ -1,4 +1,4 @@
-#A Pebble watchface!
+# A Pebble watchface!
 
 This was one of my first attempts writing an app for an actual device. I wrote this at a HackNC 2013. 
 
